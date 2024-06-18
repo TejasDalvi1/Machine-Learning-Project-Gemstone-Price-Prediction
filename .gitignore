@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+gemstone
 
 # Spyder project settings
 .spyderproject
