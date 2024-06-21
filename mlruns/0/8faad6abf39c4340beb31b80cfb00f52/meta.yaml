@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Labs/Machine-Learning-Project-Gemstone-Price-Prediction/mlruns/0/8faad6abf39c4340beb31b80cfb00f52/artifacts
+end_time: 1718976960205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8faad6abf39c4340beb31b80cfb00f52
+run_name: honorable-fly-119
+run_uuid: 8faad6abf39c4340beb31b80cfb00f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718976955813
+status: 3
+tags: []
+user_id: tejas

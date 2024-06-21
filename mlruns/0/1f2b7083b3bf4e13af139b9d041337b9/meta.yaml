@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Labs/Machine-Learning-Project-Gemstone-Price-Prediction/mlruns/0/1f2b7083b3bf4e13af139b9d041337b9/artifacts
+end_time: 1718977502469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f2b7083b3bf4e13af139b9d041337b9
+run_name: sincere-stoat-297
+run_uuid: 1f2b7083b3bf4e13af139b9d041337b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718977498719
+status: 3
+tags: []
+user_id: tejas
